@@ -1,4 +1,3 @@
-#no AI was used for this assignment
 import socket
 import threading
 # the IP address and port for connecting to the server
